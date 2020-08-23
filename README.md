@@ -43,6 +43,8 @@
 
 <img align="left" alt="LuanBarbosaA Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LuanBarbosaA&show_icons=true&hide_border=true&theme=buefy" />
 
+<img align="left" alt="LuanBarbosaA Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanBarbosaA&layout=compact&hide_border=truee&theme=buefy" />
+
 [youtube]: https://www.youtube.com/channel/UCWGDyAPwt_SIHttYli91B-w?view_as=subscriber
 [instagram]: https://www.instagram.com/luanlaraa/
 [linkedin]: https://www.linkedin.com/in/luan-barbosa-lara/
