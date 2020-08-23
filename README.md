@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="LuanBarbosaA Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LuanBarbosaA&show_icons=true&hide_border=true" />
+<img align="left" alt="LuanBarbosaA Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LuanBarbosaA&show_icons=true&hide_border=true&theme=buefy" />
 
 [youtube]: https://www.youtube.com/channel/UCWGDyAPwt_SIHttYli91B-w?view_as=subscriber
 [instagram]: https://www.instagram.com/luanlaraa/
